@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo11029
-Fork on GitHub2775
 <h1 align="center">Hi 👋, I'm Arun Kumart</h1>
 <h3 align="center">A passionate developer and a Security reacher from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
