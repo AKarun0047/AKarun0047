@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">A passionate developer and a Security reacher from India</h3>
+<h3 align="center">A passionate developer and a Security researcher from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarun0047&label=Profile%20views&color=0e75b6&style=flat" alt="akarun0047" /> </p>
